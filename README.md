@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Waqas! 👋
 
-<!--
-**MuhammadWaqas170/MuhammadWaqas170** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 WordPress Developer & Technical SEO Specialist
+I build fast, secure, and SEO-optimized websites that rank and convert.
 
-Here are some ideas to get you started:
+- 🛠️ **Expertise:** WordPress, Elementor Pro, Divi, WooCommerce & Shopify.
+- 📈 **SEO:** Technical SEO, 90+ PageSpeed Score, Ahrefs Site Health Expert.
+- ✍️ **Content:** 100% Human-written SEO articles & Educational Blogs.
+- ⚡ **Impact:** Recovered $2200+ revenue through Technical Performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-RankMath-blue?style=for-the-badge)
+![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+
+---
+
+### 📊 Professional Highlights
+- **Site Recovery:** Optimized site from 57% to 96% Ahrefs Health Score.
+- **Speed Expert:** Achieved 90+ Mobile/Desktop scores on PageSpeed Insights.
+- **Content Management:** Delivered 500+ SEO-optimized articles for high-authority domains.
+
+---
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/muhammad-waqas-253955402) | [Upwork](https://www.upwork.com/freelancers/~017c1894d78a87900b)
