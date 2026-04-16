@@ -25,4 +25,4 @@ I build fast, secure, and SEO-optimized websites that rank and convert.
 - **Content Management:** Delivered 500+ SEO-optimized articles for high-authority domains.
 
 ---
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/muhammad-waqas-253955402) | [Upwork](https://www.upwork.com/freelancers/~01416ed4f82f8c5df4?mp_source=share)
+📫 **Let's Connect:** [Mail](waqasdigitaltools@gmail.coom) | [Upwork](https://www.upwork.com/freelancers/~01416ed4f82f8c5df4?mp_source=share)
